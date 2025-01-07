@@ -1,0 +1,24 @@
+Customer: Ali, Phone: 03298038474
+Total Bill: $0
+Products:
+---------------------
+Customer: Ali, Phone: 03298038474
+Total Bill: $20
+Products:
+---------------------
+Customer: Hamza, Phone: 03098867345
+Total Bill: $4
+Products:
+---------------------
+Customer: Haider, Phone: 0989099876
+Total Bill: $0
+Products:
+---------------------
+Customer: Ali, Phone: 976543
+Total Bill: $4
+Products:
+---------------------
+Customer: waleed, Phone: 58936245634
+Total Bill: $630
+Products:
+---------------------

@@ -1,0 +1,7 @@
+Category: a | ID: 1 | ID: 1 | ID: 1 | Name: A | Price: $2 | Quantity: 2
+Category: b | ID: 2 | ID: 2 | ID: 2 | Name: A | Price: $2 | Quantity: 0
+Category: c | ID: 3 | ID: 3 | ID: 3 | Name: A | Price: $2 | Quantity: 0
+Category: bakery | ID: 4 | Name: Cake | Price: $32 | Quantity: 10
+Category: bakery | ID: 5 | Name: garlic | Price: $45 | Quantity: 23
+Category: balras | ID: 7 | Name: aliha | Price: $54 | Quantity: 25
+Category: vaniger | ID: 6 | Name: hamza | Price: $32 | Quantity: 12
