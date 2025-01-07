@@ -43,7 +43,17 @@ To run this project, ensure the following:
   - 50 MB free disk space
 
 ### Libraries/Dependencies
-- Standard C++ libraries (No additional external libraries required).
+- Standard C++ libraries
+- #include <iostream> 
+#include <string>
+#include <limits>
+#include <algorithm>
+#include <queue>
+#include <fstream>
+#include<stack>
+#include<windows.h>
+#include <map>  
+#include<conio.h>
 
 ---
 
